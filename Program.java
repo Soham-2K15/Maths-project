@@ -11,7 +11,6 @@ public class DisplayImage {
 
         // Load the image
         ImageIcon image = new ImageIcon("C:\Users\Dell\Desktop\SOHAM\education.png");
-
         // Create a label to hold the image
         JLabel label = new JLabel(image);
 

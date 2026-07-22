@@ -10,7 +10,7 @@ public class DisplayImage {
         frame.setSize(650, 500);
 
         // Load the image
-ImageIcon image = new ImageIcon("C:\Users\Dell\Desktop\SOHAM\education.png");
+        ImageIcon image = new ImageIcon("C:\Users\Dell\Desktop\SOHAM\education.png");
 
         // Create a label to hold the image
         JLabel label = new JLabel(image);
